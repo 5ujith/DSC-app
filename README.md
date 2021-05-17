@@ -1,1 +1,2 @@
-# DSC-app
+# DSC-app 
+This is a Demo App of DSC SASTRA.In this you can learn to parse a json file and display them as listview in # flutter.
